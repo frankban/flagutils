@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/frankban/flagutils?status.svg)](https://godoc.org/github.com/frankban/flagutils)
+
 # flagutils
 
 This Go package provides helpers for parsing command line flags to string
