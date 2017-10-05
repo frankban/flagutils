@@ -1,4 +1,5 @@
 [![GoDoc](https://godoc.org/github.com/frankban/flagutils?status.svg)](https://godoc.org/github.com/frankban/flagutils)
+[![Build Status](https://travis-ci.org/frankban/flagutils.svg?branch=master)](https://travis-ci.org/frankban/flagutils)
 
 # flagutils
 
